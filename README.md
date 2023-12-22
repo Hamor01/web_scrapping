@@ -26,12 +26,12 @@ By analyzing data related to mass shootings, we gain insights that can:
 - Contribute to creating safer environments
 
 ### Text Files
-- [CNN]([CNN.txt](https://github.com/Hamor01/web_scrapping/blob/master/CNN.txt))
-- [Epoch]([Epoch.txt](https://github.com/Hamor01/web_scrapping/blob/master/Epoch.txt))
-- [NY Times]([NYTimes.txt](https://github.com/Hamor01/web_scrapping/blob/master/New%20York%20Times.txt))
+- [CNN](https://github.com/Hamor01/web_scrapping/blob/master/CNN.txt)
+- [Epoch](https://github.com/Hamor01/web_scrapping/blob/master/Epoch.txt)
+- [NY Times](https://github.com/Hamor01/web_scrapping/blob/master/New%20York%20Times.txt)
 
 ### CSV File
-- [Mass Shootings Data]([mass_shootings_data.csv](https://github.com/Hamor01/web_scrapping/blob/master/data-project.csv))
+- [Mass Shootings Data](https://github.com/Hamor01/web_scrapping/blob/master/data-project.csv)
 
 ## Questions to Address
 
