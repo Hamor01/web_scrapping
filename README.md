@@ -42,7 +42,7 @@ By analyzing data related to mass shootings, we gain insights that can:
 
 ## Actionable Recommendations
 
-Using the answers to those questions (and others you may create), provide actionable recommendations for stakeholders such as policy makers and communities. Document your findings and analysis in the accompanying Python script (`.py` file) for a detailed overview.
+Using the answers to those questions, I have provided actionable recommendations for stakeholders such as policy makers and communities. Documenting my findings and analysis in the [Python script](https://github.com/Hamor01/web_scrapping/blob/master/sush.py) for a detailed overview.
 
 ---
 
