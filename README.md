@@ -5,6 +5,5 @@ The Output images:
 
 
 
-Kindly Copy the source url and paste in your browser to see the image itself
-Thanks
+
 
