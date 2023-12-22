@@ -1,8 +1,3 @@
-The Output images:
-<img width="960" alt="image" src="https://github.com/Hamor01/web_scrapping/assets/81221383/16937834-dc33-4c7e-b3f5-ff40945f4b2b">
-
-<img width="471" alt="image" src="https://github.com/Hamor01/web_scrapping/assets/81221383/add94713-ddda-4063-9990-5bb08056e86b">
-
 
 
 # Public Perception of Mass Shooting
@@ -50,4 +45,11 @@ By analyzing data related to mass shootings, we gain insights that can:
 Using the answers to those questions (and others you may create), provide actionable recommendations for stakeholders such as policy makers and communities. Document your findings and analysis in the accompanying Python script (`.py` file) for a detailed overview.
 
 ---
+
+The Output images:
+<img width="960" alt="image" src="https://github.com/Hamor01/web_scrapping/assets/81221383/16937834-dc33-4c7e-b3f5-ff40945f4b2b">
+
+<img width="471" alt="image" src="https://github.com/Hamor01/web_scrapping/assets/81221383/add94713-ddda-4063-9990-5bb08056e86b">
+
+
 
